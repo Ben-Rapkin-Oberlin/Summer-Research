@@ -1,8 +1,10 @@
-## How much can hyperparameter search overcome structural differences?
+## Optimizer performance accross hyperparamter variation
 Created By Ben Rapkin
 
 ### TODO
-implement GPU support
+implement GPU support  
 setup early stopping
-figure out PB2
-look at torch seeding 
+- have solutions for optional timeouts, maybe some stuff with serial  
+figure out PB2   
+
+
